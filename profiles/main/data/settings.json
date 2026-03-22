@@ -2,5 +2,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "redhat.telemetry.enabled": false,
     "workbench.tree.indent": 16,
-    "editor.fontSize": 15
+    "editor.fontSize": 13,
+    "kotlin.compiler.jvm.target": "17"
 }

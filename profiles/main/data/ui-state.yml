@@ -45,7 +45,7 @@ workbench.contrib.onboarding.browser.changePopup.03292025.shown: "true"
 workbench.contrib.onboarding.browser.changeRemainingCmdBackspaceKeybindings.04012025.shown: "true"
 workbench.contrib.onboarding.browser.gettingStarted.contribution.ts.firsttime: "false"
 workbench.contrib.onboarding.showExplorerOnFirstFolderOpen: "false"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["jsonc",true],["java",true],["typescript",true],["java-properties",true],["properties",true],["markdown",true],["xml",true],["gradle-kotlin-dsl",true],["yaml",true],["plaintext",true],["kotlin",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["html",true],["jsonc",true],["typescript",true],["properties",true],["markdown",true],["gradle-kotlin-dsl",true],["java-properties",true],["java",true],["plaintext",true],["yaml",true],["kotlin",true],["xml",true]]'
 workbench.experiments.statsigBootstrap: "{\"can_record_session\":true,\"dynamic\
   _configs\":{\"101783700\":{\"group\":\"launchedGroup\",\"group_name\":\"contr\
   ol\",\"id_type\":\"prID\",\"is_device_based\":false,\"is_experiment_active\":\
@@ -3829,8 +3829,8 @@ workbench.experiments.statsigBootstrap: "{\"can_record_session\":true,\"dynamic\
   untry\":\"KR\",\"custom\":{\"bugbotPlanStatus\":\"OFF\",\"clientChannel\":\"s\
   table\",\"clientOS\":\"macOS\",\"clientType\":\"ide\",\"clientVersion\":\"2.6\
   .20\",\"createdAt\":\"2026-02-15T13:56:56.443Z\",\"emailDomainType\":\"non-pr\
-  ofessional\",\"glassEarlyPreviewEnrolled\":false,\"isCanary\":false,\"isDebug\
-  OrNightly\":false,\"isEnterpriseTrialUser\":false,\"isEnterpriseUser\":false,\
+  ofessional\",\"glassEarlyPreviewEnrolled\":false,\"isCanary\":true,\"isDebugO\
+  rNightly\":false,\"isEnterpriseTrialUser\":false,\"isEnterpriseUser\":false,\
   \"isEval\":false,\"isInPrivacyMode\":true,\"isLegacyPrivateMode\":false,\"isS\
   erviceAccount\":false,\"privacyModeType\":\"NO_TRAINING\",\"shouldUseNewPrici\
   ng\":true,\"stripeCustomerID\":\"cus_Tz3wAzPfnEWcvP\",\"stripeMembershipExpir\
