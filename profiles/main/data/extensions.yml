@@ -1,0 +1,25 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-resolver
+    - anysphere.cursor-retrieval
+    - undefined.cursor-themes
+disabled: []
+enabled:
+  - id: EditorConfig.EditorConfig
+    uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
+  - id: fwcd.kotlin
+    uuid: c86bc8a9-fd3b-44db-b28a-2d146cb78d3c
+  - id: k--kato.intellij-idea-keybindings
+    uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
+  - id: monokai.theme-monokai-pro-vscode
+    uuid: f5d7ffda-c1d6-4070-ba80-803c705a1ee6
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
