@@ -1,7 +1,6 @@
 {
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Default Dark+",
     "redhat.telemetry.enabled": false,
     "workbench.tree.indent": 16,
-    "editor.fontSize": 14
+    "editor.fontSize": 15
 }
